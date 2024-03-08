@@ -73,3 +73,16 @@
   color: white;
   background: black;
 }
+/* CONTACT US | ABOUT | POLICY*/
+.containerBox {
+  margin: 0;
+  padding: 0;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* CONTACT US CSS*/
+.contactUs-image {
+  width: 100%;
+}
