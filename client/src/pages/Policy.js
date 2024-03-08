@@ -3,7 +3,7 @@ import Layout from "../components/Layout/Layout.js";
 
 const Policy = () => {
   return (
-    <Layout>
+    <Layout title={"Privacy Policy"}>
       <div className="row justify-content-center pt-2">
         <div className="col-md-10">
           <h1 className="bg-dark p-2 text-white text-center">ABOUT US</h1>
